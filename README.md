@@ -1,2 +1,2 @@
-## Basic Readme
-## we will learn somethin now
+## A repo with all relevant ML Algorithms
+## Exploring techniques to improve model performance
